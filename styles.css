@@ -3,9 +3,10 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Roboto, Arial, sans-serif;
 }
 body {
-  font-family: "Roboto Slab", serif;
+ font-family: Roboto, Arial, sans-serif;
   font-weight: 600;
 }
 /* style the  header */
